@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\AISystem.h(16,21): warning C4018: '<': signed/unsigned mismatch
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\AISystem.h(19,1): warning C4305: '+=': truncation from 'double' to 'T'
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\AISystem.h(19,1): warning C4305:         with
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\AISystem.h(19,1): warning C4305:         [
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\AISystem.h(19,1): warning C4305:             T=float
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\AISystem.h(19,1): warning C4305:         ]
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\RenderSystem.h(16,21): warning C4018: '<': signed/unsigned mismatch
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(16,21): warning C4018: '<': signed/unsigned mismatch
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(21,1): warning C4305: '+=': truncation from 'double' to 'T'
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(21,1): warning C4305:         with
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(21,1): warning C4305:         [
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(21,1): warning C4305:             T=float
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(21,1): warning C4305:         ]
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(26,1): warning C4305: '-=': truncation from 'double' to 'T'
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(26,1): warning C4305:         with
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(26,1): warning C4305:         [
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(26,1): warning C4305:             T=float
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(26,1): warning C4305:         ]
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(32,1): warning C4305: '-=': truncation from 'double' to 'T'
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(32,1): warning C4305:         with
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(32,1): warning C4305:         [
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(32,1): warning C4305:             T=float
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(32,1): warning C4305:         ]
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(38,1): warning C4305: '+=': truncation from 'double' to 'T'
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(38,1): warning C4305:         with
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(38,1): warning C4305:         [
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(38,1): warning C4305:             T=float
+C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Lab 4\ControlSystem.h(38,1): warning C4305:         ]
+  Lab 4.vcxproj -> C:\College Projects\Year 4\Game Eng 2\EntityComponentSystem\Lab 4\Debug\Lab 4.exe
